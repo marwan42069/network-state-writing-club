@@ -1,6 +1,8 @@
-# Network Culture is Inevitable: Understanding Its Formation and Implications
+# Network Culture is Inevitable
 
 What influences an individual's understanding of culture? Is it language? Is it religion? Is it friends and family? Is it school? Is it a series of AI-driven algorithms personalized to individuals' tastes? Increasingly in the past twenty years or so, it's the very last item. People consume more algorithm-driven social media than any other kind of media, and by doing so, they are consuming less centralized local culture. This trend will continue to influence people's minds and increase the ideological distance between individuals who may be geographically or ethnically very close. Eventually, in order for us to find our people, we will need to establish cultures based not on what we look like or where we come from, but what we believe in.
+
+## Impact of the Internet
 
 Throughout human history, people’s cultural understanding of the world depended almost entirely on their language and their location, from which almost always followed a particular ethnicity. This has made perfect sense until relatively recently because there simply wasn’t nearly as much cultural exchange before the rise of mass media and then the internet. In fact, nationalists of all races point to this idea to support a return to nationalism around the world because it has indeed provided for cultural cohesion and relative peace in the past. But such cultural foundations will prove to be anachronistic in a world where individuals ascertains their worldviews based primarily on news feed algorithms influenced by their own dispositions and interests.
 
@@ -8,12 +10,18 @@ Language remains foundational as it shapes communication and identity, but its r
 
 In 2025, the average global social media user is estimated to spend roughly two and a half hours per day scrolling through platforms like Facebook, Instagram, TikTok, and Twitter. Until the proliferation of technologies like broadband internet and smartphones in the mid-late 2000s, most people only interacted with the internet to check email and conduct basic research. But by the early 2010s, average daily usage had increased to about an hour, and over the subsequent decade, studies demonstrate [a steady climb to the current](https://influencermarketinghub.com/social-media-statistics/) [two and a half per day](https://cropink.com/daily-social-media-usage). 
 
+## Development of Decentralized Culture
+
 Particularly, each generation of people spends more time on social media than preceding generations, suggesting that every subsequent generation will be shaped more and more of what they experience online. The predominant role of algorithm-driven social media has led to a diminishing exposure to local culture. With less interactions and experiences provided by friends and family, individuals will find it increasingly challenging to connect with any local identity. Over time, local traditions may be overshadowed by a diverse array of subcultures and global trends. 
 
 The diversification of information sources through algorithms also contributes to an increased ideological distance between individuals who may be geographically close. Platforms like social media often prioritize niche interests over broader cultural narratives, causing people from different backgrounds to encounter conflicting perspectives on shared topics. This fragmentation can lead to a sense of alienation among those who might otherwise form meaningful connections based on geography or ethnicity.
 
+## Drawbacks of Decentralized Culture
+
 This shift has profound implications for societal structures and individual identities. The ideological distance between geographically close individuals raises concerns about social cohesion and cooperation in addressing global challenges. This may actually lead to a breakdown of civic behavior and local peace as individuals are more likely to conflict ideologically when interacting with the physical world around them. Rule of law will have to remain firm in such a situation in order to maintain social cohesion. 
 
 An increased inability to find local cultures whenever you travel will lend itself to a world that feels duller and more soulless. In order to prevent such an outcome, people who feel dissociated or disillusioned with their local cultures will have to be able to congregate in person with people who share similar beliefs and values. As [global travel becomes more accessible for people](https://www.perplexity.ai/search/good-morning-perplexity-genera-VL64weZBQAePuW.c_V40jw), people drawn to “foreign” decentralized cultures will feel an increasing urge and capability to re-congregate around their people. If this happens and people stay in these cultural communities long-term, it may actually lead us full-circle and new ethnicities and languages will re-introduce ethnic and geographic culture. Until culture continues to make developments and people inevitably become attracted to new, (presumably) better cultures. 
+
+## Reconciling Centralized and Decentralized Culture
 
 To mitigate some of the potential disasters that can follow from every individual’s beliefs being shaped independently from locale, it is essential to find ways to balance algorithm-driven decentralized media with (dare I say it?) centralized institutions that preserve some local sense of cultural identity and belonging. Encouraging meaningful interactions beyond online platforms can help reinforce connections between people who might otherwise feel disconnected due to differing cultural influences.
