@@ -16,6 +16,10 @@ Particularly, each generation of people spends more time on social media than pr
 
 The diversification of information sources through algorithms also contributes to an increased ideological distance between individuals who may be geographically close. Platforms like social media often prioritize niche interests over broader cultural narratives, causing people from different backgrounds to encounter conflicting perspectives on shared topics. This fragmentation can lead to a sense of alienation among those who might otherwise form meaningful connections based on geography or ethnicity.
 
+## Potential of Decentralized Culture
+
+The decreasing emphasis on ethnicity and location in cultural understanding can lead us to a truly “colorblind” world, where cultural ideologies are more evenly distributed across global regions, ethnicities, and languages.
+
 ## Drawbacks of Decentralized Culture
 
 This shift has profound implications for societal structures and individual identities. The ideological distance between geographically close individuals raises concerns about social cohesion and cooperation in addressing global challenges. This may actually lead to a breakdown of civic behavior and local peace as individuals are more likely to conflict ideologically when interacting with the physical world around them. Rule of law will have to remain firm in such a situation in order to maintain social cohesion. 
